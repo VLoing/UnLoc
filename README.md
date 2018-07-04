@@ -8,4 +8,6 @@ Trained models presented in the paper can be download [here](http://imagine.enpc
 
 CAD models of the ABB IRB120 robot are available on this [page](https://new.abb.com/products/robotics/industrial-robots/irb-120/irb-120-cad).
 
+## Acknowledgement
+Some parts of the test code come from the [Facebook ResNet implementation in Torch](https://github.com/facebook/fb.resnet.torch).
 
