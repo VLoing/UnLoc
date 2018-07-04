@@ -8,7 +8,7 @@ Trained models presented in the paper can be download [here](http://imagine.enpc
 
 CAD models of the ABB IRB120 robot are available on this [page](https://new.abb.com/products/robotics/industrial-robots/irb-120/irb-120-cad).
 
-Clamp 3D models are available here:[clamp.stl](http://imagine.enpc.fr/~loingvi/unloc/clamp.stl)[clamp.3ds](http://imagine.enpc.fr/~loingvi/unloc/clamp.3ds)[clamp.obj](http://imagine.enpc.fr/~loingvi/unloc/clamp.obj)
+Clamp 3D models are available here: [[clamp.stl]](http://imagine.enpc.fr/~loingvi/unloc/clamp.stl)[[clamp.3ds]](http://imagine.enpc.fr/~loingvi/unloc/clamp.3ds)[[clamp.obj]](http://imagine.enpc.fr/~loingvi/unloc/clamp.obj)
 
 ## Test
 The programming language used is Lua with the Torch framework. 
